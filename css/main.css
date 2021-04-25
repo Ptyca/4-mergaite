@@ -42,8 +42,8 @@ nav > a:last-of-type {
 body > main {
     display: inline-block;
     width: 800px;
+    margin-top: 40px;
     margin-left: calc(50% - 400px);
-    background-color: pink;
     }
 
     
